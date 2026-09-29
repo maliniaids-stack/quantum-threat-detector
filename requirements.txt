@@ -1,0 +1,14 @@
+# Quantum-Inspired QDS Threat Detection — SIH 26141
+# Pin current stable versions verified to work together (Sep 2026)
+qiskit>=2.0,<3
+qiskit-aer>=0.17,<1
+numpy>=1.26,<3
+scipy>=1.11,<2
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+streamlit>=1.35,<2
+plotly>=5.20,<8
+pandas>=2.0,<4
+requests>=2.31,<3
+pytest>=8.0,<10
+httpx>=0.27,<1

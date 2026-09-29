@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and virtual environments
+.pytest_cache/
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit and temporary files
+.streamlit/cache/
+.tempmediaStorage/
+*.log
+
+# SQLite database (will be generated at runtime)
+data/audit.db
+data/*.db
